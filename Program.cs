@@ -15,7 +15,7 @@ namespace CarRental
             carRentalItem.ListOfCarRentals.Add(new Rental(7, "BMW", "a1234"));
 
             // carRentalItem.ListOfCarRentals.Sort(x => x.CarRegistration)
-
+      
             //  carRentalItem.DisplayRentals();
             Console.WriteLine("===========================================");
             Rental newRental = new Rental();
